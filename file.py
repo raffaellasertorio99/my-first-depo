@@ -1,2 +1,2 @@
-def potato():
+def corn():
     return ""

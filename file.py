@@ -1,2 +1,2 @@
-def patato():
+def tomato():
     return ""

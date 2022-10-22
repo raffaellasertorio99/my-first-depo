@@ -1,2 +1,2 @@
-def Tomato():
-    return ""
+def funct():
+    return a-b
